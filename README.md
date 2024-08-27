@@ -80,6 +80,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/matte18it/matte18it/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/matte18it/matte18it/snake.svg" alt="Snake animation" />
 
 ###
