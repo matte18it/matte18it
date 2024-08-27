@@ -68,11 +68,11 @@
   <a href="https://www.facebook.com/share/GpwWiXsdn3oX2TKS/?mibextid=LQQJ4d" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="https://www.gamepix.com/play/speed-racer" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=SpeedRacer&logo=twitter&label=&color=c52417&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
   <a href="https://stackoverflow.com/users/12993439/matte18-ita" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://www.gamepix.com/play/speed-racer" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=SpeedRacer&logo=twitter&label=&color=c52417&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
 
