@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Matteo and I'm a programmer, from Italy.</h2>
+# 🧑🏻‍💻 Matteo Canino
 
 ###
 
