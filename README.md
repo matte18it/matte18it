@@ -20,7 +20,7 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
 
 ###
 
-# 💻 Area of ​​Expertise 💻
+## 💻 Area of ​​Expertise 💻
 <ul>
   <li>Frontend and Backend Web Development</li>
   <li>Mobile Developement</li>
@@ -28,7 +28,7 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
   <li>ASP (Answer Set Programming)</li>
 </ul>
 
-# 🖌️ Technical Skillset 🖌️
+## 🖌️ Technical Skillset 🖌️
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -47,7 +47,7 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matte18it&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="140" alt="languages graph"  />
 </div>
 
-# ⚙️ Frameworks and Technologies ⚙️
+## ⚙️ Frameworks and Technologies ⚙️
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -59,7 +59,7 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
   <img src="https://img.shields.io/badge/Jetpack_Compose-0095D8?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
 </p>
 
-# 📊 Statistics 📊
+## 📊 Statistics 📊
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2030%20mins-blue)
 
