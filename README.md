@@ -1,5 +1,5 @@
-# 🧑🏻‍💻 Matteo Canino
-``Full Stack Enthusiast (Developer/Student)``
+# 🧑🏻‍💻 Matteo Canino 🧑🏻‍💻
+**``Full Stack Enthusiast (Developer/Student)``**
 
 ###
 Hi, I'm an Italian computer science student passionate about programming. I constantly study new technologies to broaden my knowledge and improve my skills.
