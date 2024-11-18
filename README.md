@@ -11,9 +11,6 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
   <a href="https://stackoverflow.com/users/12993439/matte18-ita" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
-  <a href="https://www.gamepix.com/play/speed-racer" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=SpeedRacer&logo=twitter&label=&color=c52417&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
   <a href="mailto:matteocanino18@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -30,6 +27,7 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
   <li>Mobile Developement</li>
   <li>Artificial Intelligence</li>
   <li>ASP (Answer Set Programming)</li>
+  <li>Game Programming</li>
 </ul>
 
 ## 🖌️ Technical Skillset 🖌️
@@ -45,6 +43,7 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
   <img src="https://img.shields.io/badge/Perl-020202?style=for-the-badge&logo=perl&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 </p>
 
 <div align="center">
@@ -61,6 +60,7 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-0095D8?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
 ## 📊 Statistics 📊
