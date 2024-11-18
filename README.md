@@ -3,18 +3,22 @@
 
 ###
 Hi, I'm an Italian computer science student passionate about programming. I constantly study new technologies to broaden my knowledge and improve my skills.
-<div align="left">
+
+<div align="center">
   <a href="https://www.instagram.com/matteo.canino?igsh=MWFtNmo0dWFkZTBxNA%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/share/GpwWiXsdn3oX2TKS/?mibextid=LQQJ4d" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
   <a href="https://stackoverflow.com/users/12993439/matte18-ita" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
   <a href="https://www.gamepix.com/play/speed-racer" target="_blank">
     <img src="https://img.shields.io/static/v1?message=SpeedRacer&logo=twitter&label=&color=c52417&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="mailto:matteocanino18@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://discord.com/users/789813212575957023" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
 
