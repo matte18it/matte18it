@@ -33,7 +33,7 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
   <li>Game Programming</li>
 </ul>
 
-## 🖌️ Technical Skillset 🖌️
+## 🖌️ Languages ​​I Know 🖌️
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
