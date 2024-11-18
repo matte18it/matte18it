@@ -1,4 +1,5 @@
 # 🧑🏻‍💻 Matteo Canino
+``Full Stack Enthusiast (Developer/Student)``
 
 ###
 Hi, I'm an Italian computer science student passionate about programming. I constantly study new technologies to broaden my knowledge and improve my skills.
@@ -19,7 +20,7 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
 
 ###
 
-# 💻 Area of ​​expertise 💻
+# 💻 Area of ​​Expertise 💻
 <ul>
   <li>Frontend and Backend Web Development</li>
   <li>Mobile Developement</li>
