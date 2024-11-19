@@ -69,19 +69,7 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
 ## 📊 Statistics 📊
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2030%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 231 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
+ 
 **I'm an Early 🐤** 
 
 ```text
