@@ -20,6 +20,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TOTAL_CODE_TIME: true
           SHOW_PROFILE_VIEWS: false
-          SHOW_SHORT_INFO: true
+          SHOW_SHORT_INFO: false
           SYMBOL_VERSION: 1
           SHOW_LOC_CHART: false
