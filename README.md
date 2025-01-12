@@ -97,16 +97,16 @@ Sunday                   74 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-C#                       3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-unicalgameforge          3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -122,7 +122,7 @@ Shell                    1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 11/01/2025 00:43:33 UTC
+ Last Updated on 12/01/2025 00:48:23 UTC
 <!--END_SECTION:waka-->
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=matte18it&color=orange)
