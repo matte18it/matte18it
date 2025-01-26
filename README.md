@@ -68,7 +68,7 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
 
 ## 📊 Statistics 📊
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2036%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -97,16 +97,22 @@ Sunday                   74 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     30 mins             ████████████████░░░░░░░░░   62.86 % 
+Text                     10 mins             ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  49 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+CNLWizard-main           24 mins             ████████████░░░░░░░░░░░░░   48.95 % 
+Tesi                     17 mins             █████████░░░░░░░░░░░░░░░░   36.12 % 
+CNLWizard-d742edae4925b653 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+CNLWizard                3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      49 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -122,7 +128,7 @@ Shell                    1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 25/01/2025 00:41:06 UTC
+ Last Updated on 26/01/2025 00:43:31 UTC
 <!--END_SECTION:waka-->
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=matte18it&color=orange)
