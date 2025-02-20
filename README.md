@@ -39,10 +39,6 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
   <img src="https://skillicons.dev/icons?i=py,java,html,css,kotlin,ts,js,perl,cpp,cs,bash" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matte18it&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="140" alt="languages graph"  />
-</div>
-
 ## ⚙️ Frameworks and Technologies ⚙️
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -109,8 +105,9 @@ TypeScript               1 repo              ███░░░░░░░░�
 Shell                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matte18it&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="140" alt="languages graph"  />
+</div>
 
  Last Updated on 15/02/2025 00:42:33 UTC
 <!--END_SECTION:waka-->
