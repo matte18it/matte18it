@@ -50,6 +50,10 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
   <a href="https://www.gamepix.com/play/speed-racer" target="_blank">
     <img src="https://raw.githubusercontent.com/matte18it/matte18it/main/assets/speedRacerLogo.png" height="48" alt="Speed Racer custom logo" />
   </a>
+  &#x200A;
+  <a href="https://www.gamepix.com/play/space-pixel" target="_blank">
+    <img src="https://raw.githubusercontent.com/matte18it/matte18it/main/assets/spacePixelLogo.png" height="48" alt="Speed Racer custom logo" />
+  </a>
 </div>
 
 ## 📊 Statistics 📊
