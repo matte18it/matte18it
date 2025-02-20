@@ -43,9 +43,9 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,angular,mysql,postgres,postman,mongodb,docker,unity,androidstudio" />
   &#x200B;
-  <img src="https://raw.githubusercontent.com/matte18it/matte18it/main/assets/IonicLogo.png" height="48" alt="Ionic Logo" />
-  &#x200B;
   <img src="https://raw.githubusercontent.com/matte18it/matte18it/main/assets/jetpackCompose.png" height="48" alt="Jetpack Compose" />
+  &#x200B;
+  <img src="https://raw.githubusercontent.com/matte18it/matte18it/main/assets/IonicLogo.png" height="48" alt="Ionic Logo" />
 </p>
 
 ## 📊 Statistics 📊
