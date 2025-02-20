@@ -37,8 +37,6 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,java,html,css,kotlin,ts,js,perl,cpp,cs,bash" />
-
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
 </p>
 
 <div align="center">
