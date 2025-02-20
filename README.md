@@ -42,6 +42,7 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
 ## ⚙️ Frameworks and Technologies ⚙️
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,angular,mysql,postgres,postman,mongodb,docker,unity,androidstudio" />
+  <img src="https://raw.githubusercontent.com/matte18it/matte18it/main/assets/ionicLogo.png" height="45" alt="Ionic Logo" />
   
 
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
