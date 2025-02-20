@@ -48,11 +48,15 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
 ## 👾 Games Developed 👾
 <div align="center">
   <a href="https://www.gamepix.com/play/speed-racer" target="_blank">
-    <img src="https://raw.githubusercontent.com/matte18it/matte18it/main/assets/speedRacerLogo.png" height="48" alt="Speed Racer custom logo" />
+    <img src="https://raw.githubusercontent.com/matte18it/matte18it/main/assets/speedRacerLogo.png" height="48" alt="Speed Racer Logo" />
   </a>
   &#x200A;
   <a href="https://www.gamepix.com/play/space-pixel" target="_blank">
-    <img src="https://raw.githubusercontent.com/matte18it/matte18it/main/assets/spacePixelLogo.png" height="48" alt="Speed Racer custom logo" />
+    <img src="https://raw.githubusercontent.com/matte18it/matte18it/main/assets/spacePixelLogo.png" height="48" alt="Space Pixel Logo" />
+  </a>
+  &#x200A;
+  <a href="https://www.gamepix.com/play/let-s-fly" target="_blank">
+    <img src="https://raw.githubusercontent.com/matte18it/matte18it/main/assets/letFlyLogo.png" height="48" alt="Let's Fly! Logo" />
   </a>
 </div>
 
