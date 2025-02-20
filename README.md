@@ -17,9 +17,6 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
   <a href="https://discord.com/users/789813212575957023" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://www.gamepix.com/play/speed-racer" target="_blank">
-    <img src="https://raw.githubusercontent.com/matte18it/matte18it/main/assets/speedRacerLogo.png" height="35" alt="Speed Racer custom logo" />
-  </a>
 </div>
 
 ###
@@ -47,6 +44,13 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
   &#x200B;
   <img src="https://raw.githubusercontent.com/matte18it/matte18it/main/assets/IonicLogo.png" height="48" alt="Ionic Logo" />
 </p>
+
+## 👾 Games Developed 👾
+<div align="center">
+  <a href="https://www.gamepix.com/play/speed-racer" target="_blank">
+    <img src="https://raw.githubusercontent.com/matte18it/matte18it/main/assets/speedRacerLogo.png" height="48" alt="Speed Racer custom logo" />
+  </a>
+</div>
 
 ## 📊 Statistics 📊
 <!--START_SECTION:waka-->
