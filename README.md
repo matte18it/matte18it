@@ -33,12 +33,12 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
 ## 🖌️ Languages ​​I Know 🖌️
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,html,css,kotlin,ts,js,perl,cpp,cs,bash" />
+  <img src="https://skillicons.dev/icons?i=py,java,html,css,php,kotlin,ts,js,perl,cpp,cs,bash" />
 </p>
 
 ## ⚙️ Frameworks and Technologies ⚙️
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,angular,tailwind,alpinejs,mysql,postgres,postman,mongodb,docker,unity,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=spring,angular,tailwind,alpinejs,jquery,bootstrap,mysql,postgres,postman,mongodb,docker,unity,androidstudio" />
   &#x200B;
   <img src="https://raw.githubusercontent.com/matte18it/matte18it/main/assets/jetpackCompose.png" height="48" alt="Jetpack Compose" />
   &#x200B;
