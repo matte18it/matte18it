@@ -8,9 +8,6 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
   <a href="https://www.instagram.com/matteo.canino?igsh=MWFtNmo0dWFkZTBxNA%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/12993439/matte18-ita" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
   <a href="mailto:matteocanino18@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
