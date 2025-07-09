@@ -59,7 +59,7 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
 
 ## 📊 Statistics 📊
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2025%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -88,15 +88,15 @@ Sunday                   74 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   40 mins             ████████████████████████░   96.08 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Python                   1 hr 16 mins        ██████████████████░░░░░░░   70.41 % 
+YAML                     22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+Text                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      42 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -112,7 +112,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/07/2025 01:00:42 UTC
+ Last Updated on 09/07/2025 01:01:25 UTC
 <!--END_SECTION:waka-->
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=matte18it&color=orange)
