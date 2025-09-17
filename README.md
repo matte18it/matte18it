@@ -59,8 +59,6 @@ Hi, I'm an Italian computer science student passionate about programming. I cons
 
 ## 📊 Statistics 📊
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%205%20mins-blue)
-
 **I Mostly Code in Java** 
 
 ```text
@@ -74,7 +72,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2025 00:53:35 UTC
+ Last Updated on 17/09/2025 00:53:26 UTC
 <!--END_SECTION:waka-->
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=matte18it&color=orange)
