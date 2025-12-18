@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Matteo Canino</h1>
+<h1 align="center">👋 Hello, I'm Matteo Canino</h1>
 
 <p align="center">
   <b>Computer Science Graduate</b> from <a href="https://demacs.unical.it/">@DeMaCS-UNICAL</a><br>
